@@ -11,8 +11,6 @@ This app allows users to create, update, delete, and search journal entries whil
 - 🔍 **Search entries** by title or content.
 - 🔒 **User authentication** using Spring Security.
 - 🗝 **Role-based authorization** (Admin/User).
-
-- 
 - 🌐 RESTful API support.
 
 ---
