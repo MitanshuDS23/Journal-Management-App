@@ -32,8 +32,8 @@ Journal-Management-App/
 │   │   │       └── service/         # Business logic
 │   │   └── resources/
 │   │       ├── application.properties # App configuration
-│   │       └── static/              # Static web files (CSS, JS)
-│   │       └── templates/           # Thymeleaf HTML templates
+│   │    
+│   │       
 │   └── test/                        # Unit and integration tests
 ├── pom.xml                           # Maven dependencies
 └── README.md                         # Project documentation
